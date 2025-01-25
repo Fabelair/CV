@@ -5,8 +5,8 @@ import Footer from './composants/footer';
 import Navbar from './composants/navbar';
 import Etude from './pages/etude';
 import Prix from './pages/prix';
-
-
+import Emplois from './pages/emplois';
+import Engagements from './pages/engagements';
 function App() {
 
   return (
@@ -17,6 +17,8 @@ function App() {
         <Routes>
             <Route path="/" element={<Etude/>}></Route>
             <Route path="/Prix" element={<Prix/>}></Route>
+            <Route path="/Emplois" element={<Emplois/>}></Route>
+            <Route path="/Engagements" element={<Engagements/>}></Route>
         </Routes>
         </Router>
       </div>
