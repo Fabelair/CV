@@ -71,7 +71,7 @@ function Emplois(){
                         <button class="place-self-center h-[90%] w-[80%] bg-red-300 rounded-xl text-xl font-bold" onClick={()=>{effacer()}}>Effacer</button>
                     </div>
                 </div>
-                <h1 class="place-self-center mb-16">Indice: il s'agit d'un job d'été</h1>
+                <h1 class="place-self-center mb-16">Indice: il s'agit d'un job d'été qui requière des connaissances en premiers soins</h1>
                 <div class=" w-[24rem] place-self-center h-[40vh] grid grid-rows-5">
                     {
                         choix.map((rows,y)=>

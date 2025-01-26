@@ -7,6 +7,7 @@ import Etude from './pages/etude';
 import Prix from './pages/prix';
 import Emplois from './pages/emplois';
 import Engagements from './pages/engagements';
+import Realisations from './pages/realisations';
 function App() {
 
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="/Prix" element={<Prix/>}></Route>
             <Route path="/Emplois" element={<Emplois/>}></Route>
             <Route path="/Engagements" element={<Engagements/>}></Route>
+            <Route path="/Realisations" element={<Realisations/>}></Route>
         </Routes>
         </Router>
       </div>
