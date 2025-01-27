@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import pdf from "./CV Fa Belair.pdf"
+import pdf from "./public/CV Fa Belair.pdf"
 function Navbar(){
     return (
         <nav class=" border-gray-200 bg-gray-900 min-w-[31rem]">
