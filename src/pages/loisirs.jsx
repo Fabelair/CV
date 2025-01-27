@@ -29,9 +29,9 @@ function Loisirs(){
                 if(verifyAnybodyWin(newArray) ==100){
                     setVictoire("E")
                 }else if(verifyAnybodyWin(newArray) ==-100){
-                    setVictoire("P")
-                }else if(verifyAnybodyWin(newArray) ==10){
                     setVictoire("V")
+                }else if(verifyAnybodyWin(newArray) ==10){
+                    setVictoire("P")
                 }
                 setShowLoisirsModal(true)
             }
@@ -50,9 +50,9 @@ function Loisirs(){
             if(verifyAnybodyWin(newArray) ==100){
                 setVictoire("E")
             }else if(verifyAnybodyWin(newArray) ==-100){
-                setVictoire("P")
-            }else if(verifyAnybodyWin(newArray) ==10){
                 setVictoire("V")
+            }else if(verifyAnybodyWin(newArray) ==10){
+                setVictoire("P")
             }
             setShowLoisirsModal(true)
         }
