@@ -121,10 +121,10 @@ function Engagements(){
                     <div class=" h-flex grid  mt-4">
                         <h1 class="place-self-center font-bold mb-6">Vertical</h1>
                         {mots[0].trouver?<h1 class=" text-sm text-green-300">1. Synonyme de gestion et direction</h1>:<h1 class=" text-sm ">1. Synonyme de gestion et direction</h1>}
-                        {mots[1].trouver?<h1 class=" text-sm text-green-300">2. Qui apporte son aide volontaire et sans être rémunéré</h1>:<h1 class=" text-sm">2. Qui apporte son aide volontaire et sans être rémunéré</h1>}
+                        {mots[1].trouver?<h1 class=" text-sm text-green-300">2. Action d'apporter son aide volontaire et sans être rémunéré</h1>:<h1 class=" text-sm">2. Action d'apporter son aide volontaire et sans être rémunéré</h1>}
                         {mots[2].trouver?<h1 class=" text-sm text-green-300">3. Donner raison à quelqu'un, être de son avis</h1>:<h1 class=" text-sm">3. Donner raison à quelqu'un, être de son avis</h1>}
                         {mots[4].trouver?<h1 class=" text-sm text-green-300">5. Opinion donnée à quelqu'un sur ce qu'il doit faire</h1>:<h1 class=" text-sm">5. Opinion donnée à quelqu'un sur ce qu'il doit faire</h1>}
-                        {mots[5].trouver?<h1 class=" text-sm text-green-300">6. Ressources pécuniaires</h1>:<h1 class=" text-sm">6. Ressources pécuniaires</h1>}
+                        {mots[5].trouver?<h1 class=" text-sm text-green-300">6. Science de la gestion des patrimoines</h1>:<h1 class=" text-sm">6. Science de la gestion des patrimoines</h1>}
                     </div>
                 </div>
             </div>

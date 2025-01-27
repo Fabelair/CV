@@ -8,6 +8,7 @@ import Prix from './pages/prix';
 import Emplois from './pages/emplois';
 import Engagements from './pages/engagements';
 import Realisations from './pages/realisations';
+import Loisirs from './pages/loisirs';
 function App() {
 
   return (
@@ -21,6 +22,7 @@ function App() {
             <Route path="/Emplois" element={<Emplois/>}></Route>
             <Route path="/Engagements" element={<Engagements/>}></Route>
             <Route path="/Realisations" element={<Realisations/>}></Route>
+            <Route path="/Loisirs" element={<Loisirs/>}></Route>
         </Routes>
         </Router>
       </div>
