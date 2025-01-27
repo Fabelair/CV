@@ -10,9 +10,8 @@ Chaque jeu permet de découvrir différentes facettes de mon profil tout en offr
 
 ## 🛠 Technologies utilisées  
 
-- **React.js** – Pour la construction des composants interactifs  
+- **React.js** – Pour la construction des composants interactifs et pour la logique des jeux  
 - **Tailwind CSS** – Pour le style rapide et responsive  
-- **JavaScript (ES6+)** – Pour la logique des jeux  
 - **GitHub Pages** – Pour l'hébergement du projet  
 
 ## 📚 Ce que j'ai appris  
