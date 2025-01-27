@@ -39,7 +39,7 @@ function Prix(){
                         </div>
                         <div class="place-self-center">
                             <audio controls>
-                                <source src="/Vance Joy - 'Riptide' Official Video.mp3" type="audio/mp3"/>
+                                <source src="./Vance Joy - 'Riptide' Official Video.mp3" type="audio/mp3"/>
                                 Your browser does not support the audio element. La réponse est "Riptide".
                             </audio>
                         </div>
@@ -56,7 +56,7 @@ function Prix(){
                         </div>
                         <div class="place-self-center">
                             <audio controls>
-                                <source src="/DNCE - Cake By The Ocean.mp3" type="audio/mp3"/>
+                                <source src="./DNCE - Cake By The Ocean.mp3" type="audio/mp3"/>
                                 Your browser does not support the audio element. La réponse est "Cake By The Ocean".
                             </audio>
                         </div>
@@ -73,7 +73,7 @@ function Prix(){
                         </div>
                         <div class="place-self-center">
                             <audio controls>
-                                <source src="/Sam Hunt - Body Like A Back Road (Official Audio).mp3" type="audio/mp3"/>
+                                <source src="./Sam Hunt - Body Like A Back Road (Official Audio).mp3" type="audio/mp3"/>
                                 Your browser does not support the audio element. La réponse est "Body like a back road".
                             </audio>
                         </div>
