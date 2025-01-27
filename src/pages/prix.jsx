@@ -96,7 +96,7 @@ function Prix(){
                 Bourse
               </h1>  
               <h1 class=" tracking-wider text-xl mb-6 w-[90%] text-black text-justify mt-10 ml-[5%]">
-              J'ai eu le grand honneur de recevoir la bourse d'admission Innovation Ted Rogers. Il s'agit d'une bourse de 100 000$ remis à 10 étudiants au canada. Les critères de sélection était l'excellence académique et un grand intéret pour les technologies (souligné par nombreux de mes professeurs de science).
+              J'ai eu le grand honneur de recevoir la bourse d'admission Innovation Ted Rogers. Il s'agit d'une bourse de 100 000 $ remise à 10 étudiants au Canada. Les critères de sélection étaient l'excellence académique ainsi qu'un grand intérêt pour les technologies, souligné par plusieurs de mes professeurs de sciences.
               </h1>           
             </Modal>
         </div>
